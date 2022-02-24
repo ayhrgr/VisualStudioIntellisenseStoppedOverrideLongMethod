@@ -16,3 +16,7 @@ This happens frequently when the font size of "Statement Completion" is increase
 * Visual Studio 2022 17.1.0
 * Visual Studio 2022 17.2.0 Preview 1.0
 
+## Reference Video
+
+https://user-images.githubusercontent.com/83535794/155541491-deb86559-e429-4cc0-8285-2cfd79a17436.mp4
+
