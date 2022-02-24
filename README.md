@@ -1,5 +1,7 @@
 # VisualStudioIntellisenseStoppedOverrideLongMethod
 
+## Very long virtual methods cannot be auto-completed in intellisense.
+
 When I try to override a very long virtual method in visual studio's intellisense, the method list appears for a moment and then disappears immediately.
 
 This seems to happen when the virtual method cannot be displayed on a single screen, as suggested by intellesense.
