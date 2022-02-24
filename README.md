@@ -8,3 +8,11 @@ This seems to happen when the virtual method cannot be displayed on a single scr
 
 This happens frequently when the font size of "Statement Completion" is increased, or when using a low-resolution display.
 ![image](https://user-images.githubusercontent.com/83535794/155533799-563414d3-ad97-46e4-a36f-843e3758d281.png)
+
+
+## Environment where it occurs
+
+* Visual Studio 2019 16.11.10
+* Visual Studio 2022 17.1.0
+* Visual Studio 2022 17.2.0 Preview 1.0
+
