@@ -20,3 +20,7 @@ This happens frequently when the font size of "Statement Completion" is increase
 
 https://user-images.githubusercontent.com/83535794/155541491-deb86559-e429-4cc0-8285-2cfd79a17436.mp4
 
+## Developer Community Feedback
+
+https://developercommunity.visualstudio.com/t/Very-long-virtual-methods-cannot-be-auto/1676442
+
